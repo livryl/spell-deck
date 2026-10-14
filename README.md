@@ -8,8 +8,7 @@
 - Offline support
 - No installation required
 
-## ◆Project Page
-https://sites.google.com/view/ashentownfusion/tools
+## ◆[Project Page](https://sites.google.com/view/ashentownfusion/tools)
 
 ## ◆Author
 Livryl
@@ -26,8 +25,7 @@ Livryl
 - オフライン対応
 - インストール不要
 
-## ◆掲載サイト
-https://sites.google.com/view/ashentownfusion/tools
+## ◆[掲載サイト](https://sites.google.com/view/ashentownfusion/tools)
 
 ## ◆制作
 Livryl
